@@ -1,0 +1,6 @@
+@VideoProject_HostAddress = http://localhost:5233
+
+GET {{VideoProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
